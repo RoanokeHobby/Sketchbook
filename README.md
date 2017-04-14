@@ -1,7 +1,7 @@
 # Sketchbook
 
-Sketches for Arduino and other AVR Boards that we have featured in our demos.
+Sketches for Arduino UNO and other AVR Boards that we have featured in our videos.
 
-All source code is public domain and free to use.
+All source code is public domain.
 
 
