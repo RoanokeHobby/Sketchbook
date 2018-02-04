@@ -9,10 +9,10 @@ featured a presentation by Steven F. LeBrun on "Creating Good Header Files" -
 when the get the code and notes become available, they will be posted here
 in this GitHub Repository.
 
-As mentioned at the meeting, one of the goals of the meetings is to develop
+As mentioned during the session, a goal for future meetings is to develop
 and publish a working Arduino library for use with a motor controller board:
 the Seeed-Studio [Motor Shield V2.0](http://wiki.seeed.cc/Motor_Shield_V2.0/).
-More details and progress on this project will be posted over on the 
+More details and progress on this project will be posted on the 
 [Library Files](Page2.md) page.  Stay tuned! 
 
 * * *
